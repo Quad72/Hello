@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/mainResultView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/leveltext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="레벨: 0"/>
+        <Button
+            android:id="@+id/levelbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="level Up"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="키보드 보이기"
+            android:id="@+id/showInputButton"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="키보드 가리기"
+            android:id="@+id/hideInputButton"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="toggle"
+            android:id="@+id/togglekeyboard"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

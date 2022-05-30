@@ -1,0 +1,51 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+}
+rootProject.name = "Hello"
+include ':app'
+include ':ch6_view2'
+include ':ch7'
+include ':ch7_layout'
+include ':ch8'
+include ':ch8_event'
+include ':ch9'
+include ':ch9_resources'
+include ':ch10'
+include ':ch10_alim'
+include ':ch10_notification'
+include ':ch11'
+include ':ch11_viewpager'
+include ':ch11_drawer'
+include ':ch11_jetpack'
+include ':ch12'
+include ':ch13'
+include ':ch13_coroutine'
+include ':ch13_activity'
+include ':ch14'
+include ':ch14_reciever'
+include ':ch15'
+include ':test_outter'
+include ':ch15_service'
+include ':ch15_outer'
+include ':ch16'
+include ':ch16_provider'
+include ':ch17'
+include ':ch17_database'
+include ':ch18'
+include ':ch18_network'
+include ':ch19'
+include ':ch19_map'
+include ':ch20_firebase'
+include ':final'

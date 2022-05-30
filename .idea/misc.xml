@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch10/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch10/src/main/res/layout/dialog_input.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch10_alim/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch10_notification/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11/src/main/res/layout/activity_main.xml" value="0.3515625" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11/src/main/res/layout/fragment_one.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11/src/main/res/layout/item_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11/src/main/res/menu/menu_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_drawer/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_jetpack/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_jetpack/src/main/res/layout/fragment_one.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_jetpack/src/main/res/layout/fragment_three.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_jetpack/src/main/res/layout/item_recyclerview.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_jetpack/src/main/res/menu/menu_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_jetpack/src/main/res/menu/menu_navigation.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_viewpager/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_viewpager/src/main/res/layout/fragment_one.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_viewpager/src/main/res/layout/fragment_three.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_viewpager/src/main/res/layout/fragment_two.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch11_viewpager/src/main/res/layout/item_pager.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch12/src/main/res/layout/activity_main.xml" value="0.27364733359283766" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch12/src/main/res/layout/fragment_one.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch12/src/main/res/layout/fragment_three.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch12/src/main/res/layout/fragment_two.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch12/src/main/res/layout/item_recyclerview.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch12/src/main/res/layout/navigation_header.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch12/src/main/res/menu/menu_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch12/src/main/res/menu/menu_navigation.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13/src/main/res/layout-land/activity_main.xml" value="0.15873015873015872" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13/src/main/res/layout/activity_detail.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13_activity/src/main/res/drawable/dungle.xml" value="0.1955" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13_activity/src/main/res/layout/activity_add.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13_activity/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13_activity/src/main/res/layout/item_recyclerview.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13_activity/src/main/res/menu/menu_add.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch13_coroutine/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch14/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch14_reciever/src/main/res/layout/activity_main.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch15/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch15_outer/src/main/res/layout/activity_main.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch15_service/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch16/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch16_provider/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch16_provider/src/main/res/xml/file_paths.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17/src/main/res/layout/fragment_blank.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17/src/main/res/layout/setting.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17/src/main/res/xml/csetting.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17/src/main/res/xml/setting.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17_database/src/main/res/layout/activity_add.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17_database/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17_database/src/main/res/layout/activity_setting.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17_database/src/main/res/layout/item_recyclerview.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17_database/src/main/res/menu/menu_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17_database/src/main/res/xml/root_preferences.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch17_database/src/main/res/xml/settings.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch18/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch18_network/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch18_network/src/main/res/layout/fragment_retrofit.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch18_network/src/main/res/layout/item_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch19/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch19/src/main/res/layout/activity_main2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch19/src/main/res/layout/activity_map.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch19_map/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch20_firebase/src/main/res/layout/activity_auth.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch20_firebase/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch20_firebase/src/main/res/menu/menu_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch6_view2/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch7/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch7_layout/src/main/res/layout/activity_main.xml" value="0.3515625" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch8/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch8_event/src/main/res/drawable/round_button.xml" value="0.332" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch8_event/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch9/src/main/res/layout-land/activity_main2.xml" value="0.3099647266313933" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch9/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch9/src/main/res/layout/activity_main2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch9_resources/src/main/res/layout-land/activity_main.xml" value="0.30599647266313934" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/ch9_resources/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/final/src/main/res/font/font.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/final/src/main/res/layout/activity_add.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/final/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/final/src/main/res/layout/activity_setting.xml" value="0.1875" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/final/src/main/res/layout/item_recyclerview.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/final/src/main/res/menu/menu_add.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/final/src/main/res/menu/menu_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/final/src/main/res/xml/settings.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Quad/AndroidStudioProjects/Hello/test_outter/src/main/res/layout/activity_main.xml" value="0.3515625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

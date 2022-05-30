@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ch10" />
+            <option value="$PROJECT_DIR$/ch10_alim" />
+            <option value="$PROJECT_DIR$/ch10_notification" />
+            <option value="$PROJECT_DIR$/ch11" />
+            <option value="$PROJECT_DIR$/ch11_drawer" />
+            <option value="$PROJECT_DIR$/ch11_jetpack" />
+            <option value="$PROJECT_DIR$/ch11_viewpager" />
+            <option value="$PROJECT_DIR$/ch12" />
+            <option value="$PROJECT_DIR$/ch13" />
+            <option value="$PROJECT_DIR$/ch13_activity" />
+            <option value="$PROJECT_DIR$/ch13_coroutine" />
+            <option value="$PROJECT_DIR$/ch14" />
+            <option value="$PROJECT_DIR$/ch14_reciever" />
+            <option value="$PROJECT_DIR$/ch15" />
+            <option value="$PROJECT_DIR$/ch15_outer" />
+            <option value="$PROJECT_DIR$/ch15_service" />
+            <option value="$PROJECT_DIR$/ch16" />
+            <option value="$PROJECT_DIR$/ch16_provider" />
+            <option value="$PROJECT_DIR$/ch17" />
+            <option value="$PROJECT_DIR$/ch17_database" />
+            <option value="$PROJECT_DIR$/ch18" />
+            <option value="$PROJECT_DIR$/ch18_network" />
+            <option value="$PROJECT_DIR$/ch19" />
+            <option value="$PROJECT_DIR$/ch19_map" />
+            <option value="$PROJECT_DIR$/ch20_firebase" />
+            <option value="$PROJECT_DIR$/ch6_view2" />
+            <option value="$PROJECT_DIR$/ch7" />
+            <option value="$PROJECT_DIR$/ch7_layout" />
+            <option value="$PROJECT_DIR$/ch8" />
+            <option value="$PROJECT_DIR$/ch8_event" />
+            <option value="$PROJECT_DIR$/ch9" />
+            <option value="$PROJECT_DIR$/ch9_resources" />
+            <option value="$PROJECT_DIR$/final" />
+            <option value="$PROJECT_DIR$/test_outter" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

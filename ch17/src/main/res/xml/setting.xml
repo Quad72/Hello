@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        app:key="a_category"
+        app:title="A setting">
+        <SwitchPreferenceCompat
+            app:key="a1"
+            app:title="A-1 Setting"/>
+        <SwitchPreferenceCompat
+            app:key="a2"
+            app:title="A-2 Setting"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:key="b_category"
+        app:title="B setting">
+        <SwitchPreferenceCompat
+            app:key="b1"
+            app:title="B-1 Setting"/>
+        <SwitchPreferenceCompat
+            app:key="b2"
+            app:title="B-2 Setting"/>
+    </PreferenceCategory>
+    <Preference
+        app:key="c"
+        app:summary="C setting summary"
+        app:title="C Setting"
+        app:fragment="com.example.ch17.CSettingFragment"/>
+    <SwitchPreferenceCompat
+        app:key="notifications"
+        app:title="Enable message notificatioin"/>
+    <Preference
+        app:key="feedback"
+        app:title="Send feedback"
+        app:summary="Report technical issues or suggest new features"/>
+    <EditTextPreference
+        app:key="id"
+        app:title="ID 설정"
+        app:isPreferenceVisible="false"/>
+    <ListPreference
+        app:key="color"
+        app:title="색상 선택"
+        android:entries="@array/my_color"
+        app:entryValues="@array/my_color_values"/>
+</PreferenceScreen>

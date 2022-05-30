@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@color/purple_200">
+            <com.google.android.material.appbar.CollapsingToolbarLayout
+                android:id="@+id/abtitle"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:contentScrim="@color/purple_200"
+                app:expandedTitleMarginBottom="33dp"
+                app:expandedTitleMarginStart="39dp"
+                app:layout_scrollFlags="scroll|exitUntilCollapsed"
+                app:title="Title"
+                app:collapsedTitleTextAppearance="@style/RobotoBoldTextAppearancesmall"
+                app:expandedTitleTextAppearance="@style/RobotoBoldTextAppearance">
+                <androidx.appcompat.widget.Toolbar
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    android:layout_alignParentTop="true"
+                    android:id="@+id/toolbar"
+                    android:background="@color/purple_200"
+                    app:layout_collapseMode="pin">
+                    <!--<TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="title"
+                        android:id="@+id/tbtitle"
+                        android:textSize="25dp"
+                        android:textColor="@color/white"
+                        android:fontFamily="@font/gomsin"/>-->
+                </androidx.appcompat.widget.Toolbar>
+            </com.google.android.material.appbar.CollapsingToolbarLayout>
+        </com.google.android.material.appbar.AppBarLayout>
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/main_recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/toolbar"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/main_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        app:icon="@android:drawable/ic_input_add"
+        android:text="할일 추가"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:fontFamily="@font/gomsin"
+        android:textSize="24dp"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
